@@ -42,7 +42,6 @@
         "@storybook/addon-links": "^3.2.12",
         "@storybook/react": "^3.2.12",
         "babel-core": "^6.26.0",
-        "babel-jest": "^21.2.0",
         "babel-loader": "^7.1.2",
         "babel-plugin-module-resolver": "^2.7.1",
         "babel-plugin-transform-react-remove-prop-types": "^0.4.9",
